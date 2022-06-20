@@ -5,7 +5,7 @@ The prototype was created as part of the module "Industrielle Produktion und Ind
 The idea of programming a prototype of an automatic colour sorting machine developed from the problem that manual sorting is time-consuming, cost-intensive and error-prone. An automated sorting process should save time and costs and improve quality and hygiene.
 
 The prototype was built using the following components: 
-1 x TCS34725 colour sensor, 1 x HX711 24-bit analogue-to-digital converter, 4 x half-bridge load cells, 2 x servomotors, 2 x ESP8266
+1 x TCS34725 colour sensor, 1 x HX711 24-bit analogue-to-digital converter, 4 x half-bridge load cells, 2 x servomotors, 2 x ESP8266 (one to provide sufficient power)
 
 ![circuit-diagramm](https://user-images.githubusercontent.com/107826888/174525890-bb2a7cb5-ae74-4883-9383-92389b0246ce.png)
 
