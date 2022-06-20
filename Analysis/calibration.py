@@ -79,7 +79,7 @@ def connect_wlan():
     if not sta_if.isconnected():
         print('connecting to network...')
         sta_if.active(True)
-        sta_if.connect('FRITZ!Box 7530 HP', '20370183712322376176')
+        sta_if.connect('<wifi>', '<wifi password') # change wifi and password
         while not sta_if.isconnected():
             pass
     print('network config:', sta_if.ifconfig())
