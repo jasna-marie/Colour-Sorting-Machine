@@ -1,6 +1,6 @@
 # Colour-Sorting-Machine
 In this repository all necessary information for programming an automatic colour sorting machine in MicroPython can be found.
-The prototype was created as part of the module "Industrielle Produktion und Industrie 4.0" at the Aachen University of Applied Sciences by Thiviya Thavayogarajah and Jasna-Marie Moshage. 
+The prototype was created as part of the module "Industrielle Produktion und Industrie 4.0" at the Aachen University of Applied Sciences. 
 
 The idea of programming a prototype of an automatic colour sorting machine developed from the problem that manual sorting is time-consuming, cost-intensive and error-prone. An automated sorting process should save time and costs and improve quality and hygiene.
 
